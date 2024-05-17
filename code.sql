@@ -1,3 +1,12 @@
+# MerchMasters Database Design
+This repository contains the comprehensive SQL code for designing and implementing the database for MerchMasters, a sports merchandise brand.
+
+- **Comprehensive Database Design**: Detailed ER and Relationship Diagrams.
+- **Extensive Table Creation**: Tables for SUPPLIERS, EMPLOYEES, SHIPPERS, STORES, CATEGORY, MEMBERSHIP, PAYMENT, CUSTOMERS, PRODUCTS, ORDERS, ORDERDETAILS, and INVENTORY.
+- **Robust SQL Implementation**: Primary and foreign keys, data insertion, and management.
+- **Realistic Data Entry**: Sample data to simulate a functioning sports merchandise business.
+
+
 create database merchmasters;
 use merchmasters;
 
